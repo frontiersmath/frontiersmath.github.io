@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/CP-NMYvv.js";import{i as t,v as e}from"../chunks/BxT6fonr.js";import{W as p}from"../chunks/CLSuIsfh.js";import{a,w as m}from"../chunks/DxVX2SvY.js";function g(o){{let r=e(()=>({...m,about:a}));p(o,{get workshop(){return t(r)}})}}export{g as component};
